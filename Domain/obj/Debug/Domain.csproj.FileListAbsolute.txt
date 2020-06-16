@@ -1,0 +1,6 @@
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Domain\bin\Debug\Domain.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Domain\bin\Debug\Domain.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Domain\obj\Debug\Domain.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Domain\obj\Debug\Domain.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Domain\obj\Debug\Domain.csprojAssemblyReference.cache

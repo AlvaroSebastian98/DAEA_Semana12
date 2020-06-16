@@ -1,0 +1,17 @@
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Service.dll.config
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Service.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Service.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Domain.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\EntityFramework.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Infraestructure.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Domain.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Infraestructure.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\Infraestructure.dll.config
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\EntityFramework.xml
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\obj\Debug\Service.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab12\MVCAjax\Service\obj\Debug\Service.pdb
